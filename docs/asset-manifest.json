@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.601939fa.css",
+    "main.js": "./static/js/main.c17beb40.js",
+    "static/media/monigota.png": "./static/media/monigota.fde0762972ead2efda61.png",
+    "index.html": "./index.html",
+    "main.601939fa.css.map": "./static/css/main.601939fa.css.map",
+    "main.c17beb40.js.map": "./static/js/main.c17beb40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.601939fa.css",
+    "static/js/main.c17beb40.js"
+  ]
+}
